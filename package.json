@@ -1,6 +1,6 @@
 {
   "engines":{
-  "node": "16.20.1"
+  "node": "16.29.1"
   },
   "name": "starter-movie-front-end",
   "version": "0.1.0",
